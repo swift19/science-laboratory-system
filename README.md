@@ -41,10 +41,11 @@ Admin
 ![image](https://user-images.githubusercontent.com/36355952/183423692-a48d3ff5-4099-4a32-9bfa-e5ea5bbf03c6.png)
 - Can Approved/Declined request
 - When item is approved, the item qty is deducted base on request
+- Can Update status to return
 - When item is return, the item qty is added base on return item
 ![image](https://user-images.githubusercontent.com/36355952/183423771-e9c85054-5525-443e-ba15-e1049c88d1d0.png)
 - Can add comment/remarks on equipment condition (Return)
 ![image](https://user-images.githubusercontent.com/36355952/183424008-52f4ba7b-f8df-4127-885a-ee67185dc6d6.png)
-- Can add/delete notice, display in homepage for student or professor to see
+- Can add/delete notice board, display in homepage for student or professor to see
 ![image](https://user-images.githubusercontent.com/36355952/183422381-63c2dce5-9da5-4977-b2c3-69871a8e6f3c.png)
 
