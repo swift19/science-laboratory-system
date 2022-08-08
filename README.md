@@ -8,7 +8,7 @@ How to run the Science Laboratory System
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 5. Create a database with name sls 
 6. Import sls.sql file(given inside the zip package)
-7. Run the script http://localhost/sls/sls (frontend)
+7. Run the script http://localhost/science-laboratory-system-master (frontend)
 
 Credential for user admin:
 Username: admin
@@ -34,3 +34,4 @@ Admin
 - When item is approved, the item qty is deducted base on request
 - When item is return, the item qty is added base on return item
 - Can add comment/remarks on equipment condition (Return)
+- Can add/delete notice, display in homepage for student or professor to see
