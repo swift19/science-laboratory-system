@@ -1,7 +1,7 @@
 # science laboratory system
 Science Laboratory System
 
-How to run the Expense Management System  Project
+How to run the Science Laboratory System
 1. Download the  zip file or clone in git
 2. Extract the file and copy sls folder
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
