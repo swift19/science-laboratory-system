@@ -34,12 +34,17 @@ Admin
 - View admin page dashboard (Daily Basis)
 ![image](https://user-images.githubusercontent.com/36355952/183423061-b34dc75e-df82-43be-9db2-3af2b24e3b6b.png)
 - View student's request history (Daily Basis)
+![image](https://user-images.githubusercontent.com/36355952/183423319-4a00a9a0-cf56-4dee-a288-8d4d0c988a29.png)
 - Can export request form as an .xlsx file extention
+![image](https://user-images.githubusercontent.com/36355952/183423605-b43f4de1-695c-482a-a8f4-ce1e027fe702.png)
 - Can manage inventory (view, add, edit, delete materials)
+![image](https://user-images.githubusercontent.com/36355952/183423692-a48d3ff5-4099-4a32-9bfa-e5ea5bbf03c6.png)
 - Can Approved/Declined request
 - When item is approved, the item qty is deducted base on request
 - When item is return, the item qty is added base on return item
+![image](https://user-images.githubusercontent.com/36355952/183423771-e9c85054-5525-443e-ba15-e1049c88d1d0.png)
 - Can add comment/remarks on equipment condition (Return)
+![image](https://user-images.githubusercontent.com/36355952/183424008-52f4ba7b-f8df-4127-885a-ee67185dc6d6.png)
 - Can add/delete notice, display in homepage for student or professor to see
 ![image](https://user-images.githubusercontent.com/36355952/183422381-63c2dce5-9da5-4977-b2c3-69871a8e6f3c.png)
 
