@@ -8,7 +8,7 @@ How to run the Science Laboratory System
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 5. Create a database with name sls 
 6. Import sls.sql file(given inside the zip package)
-7. Run the script http://localhost/science-laboratory-system-master (frontend)
+7. Run the script http://localhost:80/science-laboratory-system-master (frontend)
 
 Credential for user admin:
 Username: admin
